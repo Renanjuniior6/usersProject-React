@@ -43,7 +43,7 @@ function Users() {
 
   return (
     <Container>
-      <Image alt="logo" src={ImagePeople2} />
+      <Image alt="img-logo" src={ImagePeople2} />
       <ContainerItems isBlur={true}>
         <H1>Usuários</H1>
 
