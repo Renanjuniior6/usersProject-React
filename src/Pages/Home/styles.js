@@ -1,6 +1,5 @@
 import styled from 'styled-components'
 import Background from '../../assets/background.png'
-import {Link} from 'react-router-dom'
 
 
 export const Container = styled.div`
